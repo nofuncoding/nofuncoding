@@ -10,11 +10,11 @@ I am a **personal programmer & designer**. Also, a student in China.
 
 Rust is the **BEST** Porgramming Language! So I am working hard on it. And I often use Godot Engine.
 
+---
+
 Now I am working in [Company Games](https://github.com/Compacy-Games). Checkout our [website](https://compacy-games.github.io)!
 
 </div>
-
----
 
 ## Contact Me
 
