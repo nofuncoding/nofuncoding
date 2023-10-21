@@ -1,6 +1,4 @@
-# NoFun
-
-Not only Funny.
+NoFun is Not Found.
 
 ## About Me
 
