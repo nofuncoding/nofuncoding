@@ -21,6 +21,11 @@ I speak Chinese, and I'm practising my English.
 
 Discord: @nofun_404hz
 
+## Support me
+
+<a href="https://afdian.net/a/nofun_404hz"> <img width="200" src="https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.png" alt=""> </a>
+
+[Buy me a coffee](https://www.buymeacoffee.com/nofun_404hz)
 ## Activities
 
 <div align="center">
