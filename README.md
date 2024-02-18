@@ -23,9 +23,9 @@ Discord: @nofun_404hz
 
 ## Support me
 
-<a href="https://afdian.net/a/nofun_404hz"> <img width="200" src="https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.png" alt=""> </a>
+<a href="https://afdian.net/a/nofun_404hz"> <img height="50" src="https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.png" alt="afdian" /> </a>
+<a href="https://www.buymeacoffee.com/nofun_404hz"> <img height="50" src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy me a coffee" /> </a>
 
-[Buy me a coffee](https://www.buymeacoffee.com/nofun_404hz)
 ## Activities
 
 <div align="center">
