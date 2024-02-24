@@ -1,15 +1,16 @@
 <div align="center">
-***NoFun is Not Found.***
+
+***NoFun** is **Not Found***
 
 I am a **personal programmer & designer**. Also, a student in China.
 
-**Rust**, C#, C/C++, Python...
+**Rust**, **C#**, C/C++, **Python**...
 
 I often use [Godot Engine](https://godotengine.org/)
 
 And I am the creator of [Company Games](https://github.com/Compacy-Games). We're making a game right now.
 
-I speak Chinese, and I'm practising my English.
+I speak Chinese, and I'm practising my English. *You can use English to talk with me*.
 
 </div>
 
