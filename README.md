@@ -15,7 +15,7 @@ I speak Chinese, and I'm practising my English.
 
 ## Contact Me
 
-[E-Mail](nofuncoding@qq.com)
+[E-Mail](mailto:nofuncoding@qq.com)
 
 [Twitter/X](https://twitter.com/NoFun_404hz)
 
