@@ -2,15 +2,15 @@
 
 ***NoFun** is **Not Found***
 
-I am a **personal programmer & designer**. Also, a student in China.
+I'm a personal programmer and designer, and I'm also a student in China.
 
-**Rust**, **C#**, C/C++, **Python**...
+I work with a lot of different languages, including Rust, C#, C/C++, and Python.
 
-I often use [Godot Engine](https://godotengine.org/)
+I often use the [Godot Engine](https://godotengine.org/).
 
-And I am the creator of [Company Games](https://github.com/Compacy-Games). We're making a game right now.
+I'm the lead programmer at [Compacy](https://github.com/compacy), where we're currently working on a game.
 
-I speak Chinese, and I'm practising my English. *You can use English to talk with me*.
+I speak Chinese, but I'm not great at speaking English.
 
 </div>
 
