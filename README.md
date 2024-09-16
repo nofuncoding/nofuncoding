@@ -20,6 +20,8 @@ I speak Chinese, and I'm not great at speaking English.
 
 [Twitter/X](https://twitter.com/NoFun_404hz)
 
+NOTE THAT MESSAGE ON TWITTER I *PROBABLY WILL NOT REPLY*
+
 Discord: @nofun_404hz
 
 ## Support me
