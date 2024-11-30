@@ -8,7 +8,7 @@ I work with a lot of different languages, including Rust, C#, C/C++, and Python.
 
 I often use the [Godot Engine](https://godotengine.org/).
 
-I'm the lead programmer at [Compacy](https://github.com/compacy), where we're currently working on a game.
+I'm the lead programmer at [Cyival Games](https://github.com/cyival), where we're currently working on a game.
 
 I speak Chinese, and I'm not great at speaking English.
 
