@@ -36,7 +36,7 @@ Discord: @nofun_404hz
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nofuncoding&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nofuncoding)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nofuncoding&?hide=lua)
 
 ![GitHub Activities](https://github-readme-activity-graph.vercel.app/graph?username=nofuncoding)
 </div>
