@@ -28,15 +28,15 @@ Discord: @nofun_404hz
 
 <a href="https://afdian.com/a/nofun_404hz"> <img height="50" src="https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.png" alt="afdian" /> </a>
 <!--<a href="https://www.buymeacoffee.com/nofun_404hz"> <img height="50" src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy me a coffee" /> </a>-->
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V811S8P4)
+<!--[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V811S8P4)-->
 
 ## Activities
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nofuncoding&count_private=true)
+<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nofuncoding&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nofuncoding&hide=lua)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nofuncoding&hide=lua)-->
 
 ![GitHub Activities](https://github-readme-activity-graph.vercel.app/graph?username=nofuncoding)
 </div>
