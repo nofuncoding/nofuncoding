@@ -16,13 +16,7 @@ I speak Chinese, and I'm not great at speaking English.
 
 ## Contact Me
 
-[E-Mail](mailto:nofuncoding@qq.com)
-
-[Twitter/X](https://twitter.com/NoFun_404hz)
-
-NOTE THAT MESSAGE ON TWITTER I *PROBABLY WILL NOT REPLY*
-
-Discord: @nofun_404hz
+[E-Mail](mailto:nofuncoding@qq.com) / [Twitter/X](https://twitter.com/NoFun_404hz) / Discord: @nofun_404hz
 
 ## Support me
 
@@ -32,11 +26,9 @@ Discord: @nofun_404hz
 
 ## Activities
 
-<div align="center">
-  
-<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nofuncoding&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nofuncoding&hide=lua)-->
+<div align="center" hspace="10" >
+  <img align="left" src="https://github-stats-extended.vercel.app/api/top-langs/?username=nofuncoding&hide=lua"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=nofuncoding&count_private=true"/>
 
 ![GitHub Activities](https://github-readme-activity-graph.vercel.app/graph?username=nofuncoding)
 </div>
