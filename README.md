@@ -12,6 +12,8 @@ I'm the lead programmer at [Cyival Games](https://github.com/cyival), where we'r
 
 I speak Chinese, and I'm not great at speaking English.
 
+![noofun404](https://count.getloli.com/@:noofun404)
+
 </div>
 
 ## Contact Me
