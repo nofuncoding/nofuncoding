@@ -2,21 +2,21 @@
 
 ***NoFun** is **Not Found***
 
-I'm a personal programmer and designer, and I'm also a student in China.
+I'm a personal programmer and designer, now I'm still studying in high school.
 
-I work with a lot of different languages, including Rust, C#, C/C++, and Python.
+Mainly writes Rust, C#, and Python.
 
-I often use the [Godot Engine](https://godotengine.org/).
+Love [Godot Engine](https://godotengine.org/). Reject using Unity.
 
-I'm the lead programmer at [Cyival Games](https://github.com/cyival), where we're currently working on a game.
+Lead programmer at [Cyival Games](https://github.com/cyival), where we're currently working on several (uncompleted) game.
 
-I speak Chinese, and I'm not great at speaking English.
+I can speak various languages, but I'm seamlessly poor at speaking other languages than Chinese. English is OK.
 
 ![noofun404](https://count.getloli.com/@:noofun404)
 
 </div>
 
-## Contact Me
+## Where to find
 
 [E-Mail](mailto:nofuncoding@qq.com) / [Twitter/X](https://twitter.com/NoFun_404hz) / Discord: @nofun_404hz
 
